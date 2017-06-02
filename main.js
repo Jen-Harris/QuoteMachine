@@ -13,7 +13,7 @@ var quotes = [
   'Even death is not to be feared by the one who has lived wisely',]
 
   function genQuote() {
-    var randNum = Math.floor(Math.random() * 8) + 1;
+    var randNum = Math.floor(Math.random() * 11) ;
     document.getElementById('quote').innerHTML = quotes[randNum];
 
   }

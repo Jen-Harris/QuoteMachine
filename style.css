@@ -9,7 +9,7 @@ background-repeat: no-repeat;
 
 .header{  position: absolute;
 top: 20%;
-left: 60%;
+left: 62%;
 transform: translate(-50%, -50%);
 color: whitesmoke;
 text-align: center;
@@ -34,11 +34,11 @@ background-color:rgba(0, 0, 0, 0.15);
  border-radius: 10px;
 }
 
-.button:hover{
+#gen:hover{
   background-color:rgba(0, 0, 0, 0.3);
 }
 
-.button:active{
+#gen:active{
   background-color:rgba(0, 0, 0, 0.15);
 }
 
