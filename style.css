@@ -1,1 +1,54 @@
+body{
+background: url("https://images3.alphacoders.com/343/thumb-1920-34387.jpg");
 
+    width: 100%;
+        height: auto;
+background-repeat: no-repeat;
+
+}
+
+.header{  position: absolute;
+top: 20%;
+left: 60%;
+transform: translate(-50%, -50%);
+color: whitesmoke;
+text-align: center;
+  margin: 0;
+  font-size: 5rem;
+  white-space: nowrap;
+  font-family:"americantypewriter";
+}
+
+body{
+  font-family: "americantypewriter";
+}
+
+#gen {
+position: absolute;
+top: 35%;
+left: 45%;
+color: whitesmoke;
+font-size: 2.5rem;
+background-color:rgba(0, 0, 0, 0.15);
+ padding: 10px;
+ border-radius: 10px;
+}
+
+.button:hover{
+  background-color:rgba(0, 0, 0, 0.3);
+}
+
+.button:active{
+  background-color:rgba(0, 0, 0, 0.15);
+}
+
+#quote{
+  position:absolute;
+  top: 50%;
+  left: 42%;
+  color: whitesmoke;
+  max-width: 40%;
+  font-size: 30px;
+  text-align: center;
+
+}
